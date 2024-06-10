@@ -131,7 +131,8 @@
 	"healthbar_colors": [
 		175,
 		102,
-		206
+		206,
+		255
 	],
 	"camera_position": [
 		0,
