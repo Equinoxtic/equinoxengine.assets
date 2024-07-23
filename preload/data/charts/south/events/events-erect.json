@@ -1,0 +1,141 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematic Border",
+						"0.001, 0.8",
+						"cubeOut"
+					],
+					[
+						"Set Default Camera Zoom",
+						"1.25",
+						"1.0"
+					],
+					[
+						"Grayscale Effect",
+						"0.675, 0.8, 0.0",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				10847.4576271186,
+				[
+					[
+						"Grayscale Effect",
+						"0.25, 0.8, 0.0",
+						"cubeOut"
+					],
+					[
+						"Set Default Camera Zoom",
+						"0.75",
+						"1.0"
+					],
+					[
+						"Instant Camera Zoom",
+						"0.1",
+						"0.05"
+					],
+					[
+						"Cinematic Border",
+						"0.67, 0.8",
+						"cubeOut"
+					]
+				]
+			],
+			[
+				16271.186440678,
+				[
+					[
+						"Set Default Camera Zoom",
+						"0.825",
+						"1.0"
+					]
+				]
+			],
+			[
+				20338.9830508475,
+				[
+					[
+						"Set Default Camera Zoom",
+						"0.85",
+						"1.0"
+					]
+				]
+			],
+			[
+				20593.220338983,
+				[
+					[
+						"Set Default Camera Zoom",
+						"0.92",
+						"1.0"
+					]
+				]
+			],
+			[
+				20847.4576271186,
+				[
+					[
+						"Set Default Camera Zoom",
+						"0.95",
+						"1.0"
+					]
+				]
+			],
+			[
+				21186.4406779661,
+				[
+					[
+						"Set Default Camera Zoom",
+						"1.12",
+						"1.0"
+					]
+				]
+			],
+			[
+				21440.6779661017,
+				[
+					[
+						"Set Default Camera Zoom",
+						"1.37",
+						"1.0"
+					]
+				]
+			],
+			[
+				21694.9152542373,
+				[
+					[
+						"Set Default Camera Zoom",
+						"0.745",
+						"1.0"
+					],
+					[
+						"Instant Camera Zoom",
+						"0.3",
+						"0.15"
+					],
+					[
+						"Camera Flash",
+						"1.0, 1.0, 0.0",
+						"sineInOut"
+					],
+					[
+						"Cinematic Border",
+						"0.25, 0.8",
+						"cubeOut"
+					],
+					[
+						"Grayscale Effect",
+						"0.0, 0.8, 0.0",
+						"cubeOut"
+					]
+				]
+			]
+		]
+	}
+}

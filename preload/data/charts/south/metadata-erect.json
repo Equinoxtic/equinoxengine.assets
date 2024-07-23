@@ -1,0 +1,18 @@
+{
+	"metadata": {
+		"songDisplayName": "South Erect (ft. Saruky)",
+		"variations": [
+			"default",
+			"erect"
+		],
+		"beatMod": 4,
+		"difficulties": [
+			"easy",
+			"normal",
+			"hard"
+		],
+		"songAlbum": "volume1",
+		"hasCountdown": true,
+		"hasNoteWiggle": false
+	}
+}
