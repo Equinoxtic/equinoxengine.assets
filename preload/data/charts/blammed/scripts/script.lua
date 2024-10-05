@@ -3,7 +3,7 @@ function onUpdate(elapsed)
 	local curBpm = getPropertyFromClass('Conductor', 'bpm')
 	local currentBeat = (songPos / 100) / (curBpm / 70)
 
-	if (curStep >= 512 and curStep < 768) then
+	if (curStep >= 512 and curStep <= 768) then
 		doTweenX('hudX', 'camHUD', 0 - 2 * math.cos((currentBeat * 0.25) * math.pi), 0.1)
 		doTweenY('hudY', 'camHUD', 0 - 4 * math.cos((currentBeat * 0.25) * math.pi), 0.1)
 		doTweenAngle('hudAngle', 'camHUD', -1 * 1 * math.sin((currentBeat+1)+300), 0.1)
